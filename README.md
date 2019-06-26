@@ -5,6 +5,7 @@
 **bold text**
 
 *italicized*
-[links lik this](https://carpentries.ord)
+
+[links like this](https://carpentries.ord)
 
 Example used for GitHub workshop during CCMcr19
